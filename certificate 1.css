@@ -1,0 +1,71 @@
+body {
+    background: #f7f7f7;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .certificate-card {
+    max-width: 800px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .certificate-header {
+    background-color: #6a4abf;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .certificate-header h2, .certificate-header h5 {
+    margin: 0;
+    color: #fff;
+  }
+  
+  .name-box {
+    background-color: #fff;
+    color: #333;
+    padding: 4px;
+    border-radius: 2px;
+    
+    
+  }
+  
+  .company-name h5 {
+    background-color:blueviolet;
+    color: #b79df2;
+    border-radius: 2px;
+    padding: 5px;
+  }
+  
+  .description {
+    font-size: 14px;
+    color:white;
+  }
+  
+  .footer-box {
+    background-color: #eee;
+    color: #333;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 150px;
+    height: 50px;
+  }
+  .footer-line {
+    border: none;
+    height: 1px;
+    background-color: #ccc;
+    width: 80%;
+    margin: auto;
+  }
+  
+  .footer-note
+   {
+    font-size: 12px;
+    color: #aaaaaa;
+    margin-top: 5px;
+  }
+  
+  
+
+  
